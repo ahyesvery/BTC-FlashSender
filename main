@@ -1,8 +1,11 @@
 <!DOCTYPE html>
+
+<!-- Erikas Liaucius EAf-22-->
+
 <html lang="lt">
 <head>
     <meta charset="UTF-8">
-    <meta name = 'author' content = 'Erikas Liaucius EAf-22'>
+    <meta name = 'author' content = 'Erikas'>
     <title>Titulas</title>
 </head>
 <body>
@@ -30,19 +33,19 @@
         </section>
 
         <section>
-            <h1>Vaizdo irasas</h1>
+            <h1>Vaizdo irasas video gaire</h1>
             <video width="300" height="150" controls>
                 <source src="video.mp4" type="video/mp4">
             </video>
         </section>
 
         <section>
-            <h1>Antras vaizdo irasas</h1>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/mwKJfNYwvm8?si=0IjSG5ekrE16AWHu" title="YouTube vaizdo irasas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <h1>Vaizdo irasas iframe gaire</h1>
+            <iframe width="300" height="150" src="https://www.youtube.com/embed/mwKJfNYwvm8?si=0IjSG5ekrE16AWHu" title="YouTube vaizdo irasas" style="border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </section>
 
         <section>
-            <h1>Audio irasas</h1>
+            <h1>Audio irasas audio gaire</h1>
             <audio controls>
                 <source src="audio.mp3" type="audio/mpeg">
             </audio>
